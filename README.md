@@ -47,7 +47,7 @@ In apache.conf, change <br>
   
   ![Screenshot](https://user-images.githubusercontent.com/23367724/55173780-4ffc5700-51a2-11e9-8407-3d300d9a3701.png) <!-- .element height="20%" width="20%" -->
   
-  ![Screenshot](https://user-images.githubusercontent.com/23367724/55173163-39093500-51a1-11e9-99ee-f1d640a0538c.png)
+  ![Screenshot](https://user-images.githubusercontent.com/23367724/55176701-a324d880-51a7-11e9-9d7f-1c053dbb63e5.png)
   
 # Kibana console
 
