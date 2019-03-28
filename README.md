@@ -1,6 +1,6 @@
 # ELK-Tutorial
 
-# elastic search 
+# Elastic Search 
   download link: [elastic search](https://www.elastic.co/downloads/elasticsearch)
 
 ```
@@ -21,7 +21,7 @@ download link: [kibana](https://www.elastic.co/downloads/kibana)
 access kibana GUI at localhost:5601
 
 
-# logstash
+# Logstash
 
 download link: [logstash](https://www.elastic.co/downloads/logstash)
 
