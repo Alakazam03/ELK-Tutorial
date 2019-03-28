@@ -43,7 +43,7 @@ download apache.conf file from github repo [apache.conf](https://github.com/Alak
   * Type logstash-* and click on next step
   * Select @timestamp
   
-  ![Screenshot](https://user-images.githubusercontent.com/23367724/55173780-4ffc5700-51a2-11e9-8407-3d300d9a3701.png)
+  ![Screenshot](https://user-images.githubusercontent.com/23367724/55173780-4ffc5700-51a2-11e9-8407-3d300d9a3701.png) <!-- .element height="20%" width="20%" -->
   
   ![Screenshot](https://user-images.githubusercontent.com/23367724/55173163-39093500-51a1-11e9-99ee-f1d640a0538c.png)
   
@@ -56,6 +56,7 @@ download apache.conf file from github repo [apache.conf](https://github.com/Alak
   ![Screenshot](https://user-images.githubusercontent.com/23367724/55173750-47a41c00-51a2-11e9-80a0-16ec90279292.png)
   
   ![Screenshot](https://user-images.githubusercontent.com/23367724/55173780-4ffc5700-51a2-11e9-8407-3d300d9a3701.png)
+  
   
 # New visualization
   
