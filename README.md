@@ -28,7 +28,7 @@ download sample-data from [logs](https://github.com/Alakazam03/ELK-Tutorial/blob
 download apache.conf file from github repo [apache.conf](https://github.com/Alakazam03/ELK-Tutorial/blob/master/apache.conf)
 
 In apache.conf, change <br>
-Configure > file => path_of_logs_file
+> file => path_of_logs_file
 
 ```
   cd logstash
