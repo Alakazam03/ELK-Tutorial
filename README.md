@@ -24,6 +24,7 @@ access kibana GUI at localhost:5601
 # Logstash
 
 download link: [logstash](https://www.elastic.co/downloads/logstash)
+download apache.conf file from github repo [apache.conf](https://github.com/Alakazam03/ELK-Tutorial/blob/master/apache.conf)
 
 ```
   cd logstash
