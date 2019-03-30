@@ -32,7 +32,7 @@ In apache.conf, change <br>
 
 ```
   cd logstash
-  bin/logstash -f location_of_file/apache.conf
+  bin/logstash -f file_path/apache.conf
 ```
 
 
