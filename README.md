@@ -19,7 +19,7 @@ download link: [kibana](https://www.elastic.co/downloads/kibana)
   cd kibana
   bin/kibana
 ```
-You can access kibana GUI at localhost:5601
+You can access kibana GUI at localhost:5601 </br>
 Open another terminal and proceed for logstash
 
 
