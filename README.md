@@ -37,7 +37,7 @@ download apache.conf file from github repo [apache.conf](https://github.com/Alak
 Now open apache.conf in text editor and change the path field to location of log we downloaded above. </br>
 In apache.conf, change <br>
 > file{
-    path => path_of_logs_file
+    path => path_of_logs_downloaded
    .
    .
   }
