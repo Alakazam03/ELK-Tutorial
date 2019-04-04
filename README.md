@@ -1,7 +1,8 @@
 # ELK-Tutorial
 
 # Elastic Search 
-  download link: [elastic search](https://artifacts.elastic.co/downloads/elasticsearch/elasticsearch-6.7.0.tar.gz)
+  Elastic search is a indexing and querying based over apache's lucene engine. It helps 
+  download link: [elastic search](https://artifacts.elastic.co/downloads/elasticsearch/elasticsearch-6.7.0.tar.gz) 
 
 ```
   cd elasticsearch
@@ -9,7 +10,8 @@
 ```
 
 You can check if elasticsearch is up and running at localhost:9200 </br>
-Open another terminal and proceed for kibana 
+Open another terminal and proceed for kibana. </br>
+Kibana helps visualizing data using after querying using elastic search.
 
 
 # kibana
@@ -20,6 +22,8 @@ download link: [kibana](https://www.elastic.co/downloads/kibana)
   bin/kibana
 ```
 You can access kibana GUI at localhost:5601 </br>
+Logstash helps normazling data from various data soruces such as apache, log events, sql and other data sources. </br>
+Also, logstash enhances data us varius filters such as geoip, grok, matcher and many more.
 Open another terminal and proceed for logstash
 
 
