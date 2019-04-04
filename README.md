@@ -31,8 +31,10 @@ Open another terminal and proceed for logstash
 
 download link: [logstash](https://www.elastic.co/downloads/logstash) <br>
 download sample-data from [logs](https://github.com/Alakazam03/ELK-Tutorial/blob/master/logs.zip)<br>
+unzip the logs into a folder </br>
 download apache.conf file from github repo [apache.conf](https://github.com/Alakazam03/ELK-Tutorial/blob/master/apache.conf)
 
+Now open apache.conf in text editor and change the path field to location of log we downloaded above. </br>
 In apache.conf, change <br>
 > file{
     path => path_of_logs_file
