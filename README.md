@@ -1,8 +1,8 @@
 # ELK-Tutorial
 
 # Elastic Search 
-  Elastic search is a indexing and querying based over apache's lucene engine. It helps 
-  download link: [elastic search](https://artifacts.elastic.co/downloads/elasticsearch/elasticsearch-6.7.0.tar.gz) 
+  Elastic search is a indexing and querying based over apache's lucene engine.</br>
+  It helps download link: [elastic search](https://artifacts.elastic.co/downloads/elasticsearch/elasticsearch-6.7.0.tar.gz) 
 
 ```
   cd elasticsearch
