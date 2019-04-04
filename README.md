@@ -44,7 +44,10 @@ In apache.conf, change <br>
 
 ```
   cd logstash
-  bin/logstash -f file_path/apache.conf
+  bin/logstash -f "file_path"/apache.conf
+  
+  Change file_path to path of file where you have stored apache.conf
+  
 ```
 
 
