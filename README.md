@@ -68,6 +68,7 @@ In apache.conf, change <br>
 
   * Go to Discover, you will see your index pattern 
   * As it shows data fro last 15 minutes, we have to change the time range
+  * select range of year from jan, 2014 to dec 2015. (as data has timestamps within that period)
   * You can see your data 
   
   ![Screenshot](https://user-images.githubusercontent.com/23367724/55173750-47a41c00-51a2-11e9-80a0-16ec90279292.png)
