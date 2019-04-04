@@ -8,7 +8,8 @@
   bin/elasticsearch
 ```
 
-You can check if elasticsearch is up and running at localhost:9200
+You can check if elasticsearch is up and running at localhost:9200 </br>
+Open another terminal and proceed for kibana 
 
 
 # kibana
@@ -19,6 +20,7 @@ download link: [kibana](https://www.elastic.co/downloads/kibana)
   bin/kibana
 ```
 You can access kibana GUI at localhost:5601
+Open another terminal and proceed for logstash
 
 
 # Logstash
