@@ -1,7 +1,7 @@
 # ELK-Tutorial
 
 # Elastic Search 
-  download link: [elastic search](https://www.elastic.co/downloads/elasticsearch)
+  download link: [elastic search](https://artifacts.elastic.co/downloads/elasticsearch/elasticsearch-6.7.0.tar.gz)
 
 ```
   cd elasticsearch
